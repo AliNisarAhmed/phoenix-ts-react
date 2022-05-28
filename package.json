@@ -26,6 +26,7 @@
   "files": [
     "lib/**/*"
   ],
+  "types": "./lib/index.d.ts",
   "devDependencies": {
     "@types/phoenix": "^1.5.4",
     "@types/react": "^18.0.9",
